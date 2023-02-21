@@ -1,0 +1,31 @@
+.vaz {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+body {
+    font-family: fantasy;
+    background-image: url(képek/hatter.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+span {
+    font-size: 12pt;
+}
+
+img {
+    width: 400px;
+    box-shadow: black 10px 10px 10px;
+    margin-bottom: 20px;
+}
+
+#gomb{
+    background-color: black;
+    color: white;
+    box-shadow: gray 10px 10px 10px;
+}
+
