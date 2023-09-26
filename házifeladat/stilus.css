@@ -1,0 +1,27 @@
+#kiskeret{
+    border: 2px solid black;
+    margin: 20px;
+    padding: 5px;
+    text-align: center;
+    box-shadow: 2px 2px 2px;
+    background-color: white;
+    height: 300px;
+    width: 200px;
+
+}
+
+#stargrid{
+    border: double black 2px;
+    text-align: center;
+    padding: 3px;
+    margin: 5px;
+    background-image: url("star_wars_infinity.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+p{
+    background-color: white ;
+    margin: auto;
+    
+}
